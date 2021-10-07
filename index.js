@@ -154,6 +154,11 @@ function breakLines() {
   console.log("Evan's solution")
   generatePasswordEvan(7)
   generatePasswordEvan(5)
+
+
+
+
+  
   
   // Simpler solution
   function generatePasswordSimple(num) {
@@ -178,6 +183,11 @@ function breakLines() {
   var result2 = generatePasswordSimple(7)
   console.log(result1)
   console.log(result2)
+
+
+
+
+
   
   // Jong's solution
   function generatePasswordJong(num) {
